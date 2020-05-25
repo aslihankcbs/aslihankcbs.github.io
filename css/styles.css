@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #000000;
   text-decoration: underline;
 }
 
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #a2a2a2 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
