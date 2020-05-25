@@ -1,2 +1,2 @@
 # aslihankcbs.github.io
-Personal web site
+Personal website
