@@ -2,7 +2,7 @@
 Aslıhan Kocabaş Website on Github Pages
 ======================================
 
-<a href="http://www.aslihankocabas.com">aslihankocabas.com</a>
+<a href="https://aslihankcbs.github.io/">aslihankcbs.github.io</a>
 
 I was inspired by this site:
 - https://www.ybrikman.com/
